@@ -1,0 +1,20 @@
+{
+  "name": "node_study",
+  "version": "1.0.0",
+  "description": "Node.js 학습 - 함성호",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"     
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haamseongho/Node_Study.git"
+  },
+  "author": "haams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Haamseongho/Node_Study/issues"
+  },
+  "homepage": "https://github.com/Haamseongho/Node_Study#readme"
+}
